@@ -15,7 +15,6 @@
 - [安装](#安装)
 - [使用说明](#使用说明)
 - [徽章](#徽章)
-- [示例](#示例)
 - [相关仓库](#相关仓库)
 - [维护者](#维护者)
 - [如何贡献](#如何贡献)
@@ -65,6 +64,20 @@
 > 推荐路径：MPV 安装目录/portable_config/shaders
 > 或者：%appdata%/mpv/shaders
 > 注意：请确保跟配置文件在同一路径下
+
+5. 最终目录结构示例
+> MPV安装目录/portable_config/scripts/Glsl_Running_Mode_Cache.lua
+> 
+> MPV安装目录/portable_config/shaders
+> 
+> MPV安装目录/portable_config/input.conf
+
+或者：
+> %appdata%/mpv/scripts/Glsl_Running_Mode_Cache.lua
+> 
+> %appdata%/mpv/shaders
+> 
+> %appdata%/mpv/input.conf
 
 ## 使用说明
 
