@@ -34,7 +34,7 @@
 
 
 1. 下载脚本和着色器文件
-[Glsl_Running_Mode_Cache]()
+[Glsl_Running_Mode_Cache](https://github.com/LuckyPuppy514/MPV_Glsl_Running_Mode_Cache/releases)
 
 2. 把脚本放入 mpv 脚本目录，二选一
 > a. 推荐路径：MPV 安装目录/portable_config/scripts
